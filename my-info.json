@@ -1,0 +1,15 @@
+{
+    "favourite_colors": [
+        "grey",
+        "black",
+        "brown"
+    ],
+    "country_want_to_visit": "Italy",
+    "country_population": 60000000,
+    "will_visit_again": true,
+    "favourite_foods": [
+        "Chicken Rice Shop",
+        "Tom Yam",
+        "Fried Rice"
+    ]
+}
